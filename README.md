@@ -9,3 +9,6 @@ Easy To Learn from: This was written without any library so more advanced users 
 Installation
 Download exe from releases tab if you are on windows
 If you are on linux, well then i suspect you are tech savy enough to download this without help😉
+
+
+If you need help join https://discord.gg/ADFYwR8jvg
